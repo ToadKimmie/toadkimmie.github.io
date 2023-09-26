@@ -1,5 +1,5 @@
 ## History of New York
-
+New York started gaining population around 10,000 B.C. By 1100 A.D., two main cultures became dominant as the Iroquoian and Algonquian settled in. New York was first claimed by a major country in 1609 mby the Dutch. 
 
 ### Using Markdown
 
@@ -26,7 +26,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### A Note on Adding Images
 
-![cactus](cactus.jpg "Taken at the Fullerton Arboritum on a Pixel 2!")
+
 
 To add an image to your site with markdown, you have two options. You can use an image you upload into your repository or provide a link to an image hosted elsewhere. There is already a fantastic guide [here](https://www.markdownguide.org/basic-syntax/#images-1) if you want more details.
 
