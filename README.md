@@ -1,4 +1,6 @@
 ## History of New York
+
+
 New York started gaining population around 10,000 B.C. By 1100 A.D., two main cultures became dominant as the Iroquoian and Algonquian settled in. New York was first claimed by a major country in 1609 mby the Dutch. 
 
 ### Using Markdown
