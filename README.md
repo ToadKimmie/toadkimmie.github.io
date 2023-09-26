@@ -12,8 +12,14 @@ Between 1865 and 1915, New York started gaining trend rapidly and quickly became
 Population Numbers Every Decade
 
 
-1. 
-2. List
+1. 1950 - 14,865,000
+2. 1960 - 16,838,000
+3. 1970 - 18,241,391
+4. 1980 - 17,566.754
+5. 1990 - 18,002,855
+6. 2000 - 19,001,780
+7. 2010 - 19.399,956
+8. 2020 - 20,108,296
 
 **Bold** and _Italic_ and `Code` text
 
