@@ -6,7 +6,7 @@ New York started gaining population around 10,000 B.C. By 1100 A.D., two main cu
 ### Industrialization 
 
 
-Between 1865 and 1915, New York started gaining trend rapidly and quickly became industrialized. New York rapdily evolved into what we know today. 
+Between 1865 and 1915, New York started gaining trend rapidly and quickly became industrialized. New York rapdily evolved into what we know today. The Civil War also helped New York gain more population and war advanatages, since it was a very tactical advantaged port to control during the war. 
 
 ```markdown
 
