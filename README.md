@@ -42,7 +42,10 @@ Credits for Information and Pictures:
 
 [Credit For New York History Information](https://en.wikipedia.org/wiki/History_of_New_York_City)
 
+[Credit for New York Picture in the 1900s](https://www.businessinsider.com/new-york-in-early-1900s-2015-10)
+
 [Credit for New York Picture in 2023](https://www.investopedia.com/new-york-city-economic-tracker-july-12-2023-7565525)
+
 
 
 
