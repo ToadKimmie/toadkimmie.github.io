@@ -31,6 +31,7 @@ Population Numbers Every Decade
 
 ###### New York in 2023:
 
+
 ![LowerManhattanSkyline-900c48d4f1064a97893dbc1548d775e1](https://github.com/ToadKimmie/toadkimmie.github.io/assets/145692172/3ba19da8-d452-430f-8e23-928241b61b26)
 
 
@@ -38,12 +39,10 @@ Population Numbers Every Decade
 
 Credits for Information and Pictures:
 
+
 [Credit For New York History Information](https://en.wikipedia.org/wiki/History_of_New_York_City)
 
-[Credit for New York Picture in 2023] (https://www.investopedia.com/new-york-city-economic-tracker-july-12-2023-7565525)
-
-
-
+[Credit for New York Picture in 2023](https://www.investopedia.com/new-york-city-economic-tracker-july-12-2023-7565525)
 
 
 
