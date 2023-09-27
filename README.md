@@ -38,7 +38,7 @@ Population Numbers Every Decade
 
 Credits for Information and Pictures:
 
-.[Link](https://en.wikipedia.org/wiki/History_of_New_York_City)
+[Credit For New York History Information](https://en.wikipedia.org/wiki/History_of_New_York_City)
 
 [Link](url) and ![Image](src)
 
