@@ -40,7 +40,9 @@ Credits for Information and Pictures:
 
 [Credit For New York History Information](https://en.wikipedia.org/wiki/History_of_New_York_City)
 
-[Link](url) and ![Image](src)
+[Credit for New York Picture in 2023] (https://www.investopedia.com/new-york-city-economic-tracker-july-12-2023-7565525)
+
+
 
 
 
