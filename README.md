@@ -35,14 +35,13 @@ Population Numbers Every Decade
 
 
 
-**Bold** and _Italic_ and `Code` text
+
+Credits for Information and Pictures:
+
+.[Link](https://en.wikipedia.org/wiki/History_of_New_York_City)
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### A Note on Adding Images
 
 
 
